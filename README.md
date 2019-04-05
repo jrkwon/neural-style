@@ -1,5 +1,21 @@
 # neural-style
 
+I used the `conda` to install this and run.
+
+## Installation
+
+```
+$ conda env create -f environment.yml
+$ conda activate neural-style
+```
+
+
+The original README is as follows.
+---
+
+
+# neural-style
+
 An implementation of [neural style][paper] in TensorFlow.
 
 This implementation is a lot simpler than a lot of the other ones out there,
